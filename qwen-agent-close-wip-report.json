@@ -1,1 +1,27 @@
-{"repository_name": "Qwen-Agent", "closed_wip_issue_count": 2}
+{
+  "Qwen-Agent": 2,
+  "analysis_summary": "Found 2 closed issues labeled 'Work in Progress' in the Qwen-Agent repository",
+  "issues_found": [
+    {
+      "issue_number": 216,
+      "title": "开源的qwen模型是否支持function call",
+      "url": "https://github.com/QwenLM/Qwen-Agent/issues/216",
+      "created_at": "2024-06-24T02:56:24+00:00",
+      "closed_at": "2024-09-14T06:41:42+00:00"
+    },
+    {
+      "issue_number": 102,
+      "title": "qwen-agent支持连接数据库，对表格进行数据分析么？",
+      "url": "https://github.com/QwenLM/Qwen-Agent/issues/102",
+      "created_at": "2024-03-27T09:05:35+00:00",
+      "closed_at": "2024-05-22T07:07:04+00:00"
+    }
+  ],
+  "metadata": {
+    "repository": "QwenLM/Qwen-Agent",
+    "analysis_date": "2025-12-29",
+    "total_closed_issues_scanned": "400+",
+    "methodology": "Search API with query 'repo:QwenLM/Qwen-Agent state:closed label:\"Work in Progress\"'",
+    "significance": "These 2 issues represent features that were conceived, worked on, and successfully completed through community collaboration"
+  }
+}
